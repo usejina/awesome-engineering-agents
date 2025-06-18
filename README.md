@@ -104,6 +104,7 @@
 - [Parity](https://tryparity.com) - AI site reliability engineer (SRE).
 - [incident.io](https://incident.io) - AI-powered incident response platform.
 - [Bumpgen](https://github.com) - AI-powered npm package upgrader.
+- [Stakpak](https://stakpak.dev) - AI-Powered DevOps IDE.
 
 ### Security & Compliance
 - [Gecko](https://gecko.security) - AI tool to detect business logic flaws and multi-step vulnerabilities.
