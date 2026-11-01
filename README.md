@@ -64,6 +64,7 @@
 - [Woz](https://withwoz.com) - Platform for software business creation.
 
 ### Testing & QA
+- [agent-qa](https://vostride.com) - Natural-language web and mobile QA with persistent memidex memory, evidence-gated self-improvement, and CLI/MCP integration.
 - [Jina](https://usejina.com) - AI QA agent that autonomously tests your app.
 - [Tusk](https://usetusk.ai) - Unit/integration test generator.
 - [Vijil Evaluate](https://vijil.ai) - Test your agents before trusting them.
